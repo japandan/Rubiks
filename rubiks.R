@@ -1,3 +1,6 @@
+#  Author: Daniel Vogel
+#  Date Last Update: 1 Feb 2020
+#
 #  Generate a rubik's cube and allow you to solve it
 #
 #  Menu:
@@ -6,7 +9,7 @@
 #  S)olve to go into a loop where we try to fix
 #  ?)swill determine the solution for you
 
-#install.packages("rcube")
+install.packages("rcube")
 library("rcube")
 # the following is for 3d
 #require(magrittr)
